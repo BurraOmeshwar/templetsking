@@ -1,0 +1,10 @@
+{
+  "description": "Discover, save, download, and sell design templates made for Indian creators, businesses, and designers—all in one visual marketplace.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
